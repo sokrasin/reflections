@@ -4,3 +4,5 @@ files git needs to store it's data.
 allows control over what gets committed
 
 staging area allows addition and removal of changed/unchanged files before actually committing
+
+add a branch to test options or add a different version
